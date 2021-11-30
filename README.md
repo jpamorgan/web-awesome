@@ -8,9 +8,10 @@ A curated list of great tools for building web apps
 
 ## UI
 
-- [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
-- [Tailwind UI](https://tailwindui.com/)
-- [Heroicons](https://heroicons.dev/)
+- [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework
+- [Tailwind UI](https://tailwindui.com/) - All the components you need to build beautiful responsive web applications.
+- [Heroicons](https://heroicons.dev/) - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [Headless UI](https://headlessui.dev/) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 
 ## Data
 
