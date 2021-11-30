@@ -15,6 +15,7 @@ A curated list of the best tools for building web apps
 
 ## Data
 
+- [Hasura](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [Superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 
 ## Server
@@ -26,3 +27,7 @@ A curated list of the best tools for building web apps
 
 - [TipTap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [Hocuspocus](https://github.com/ueberdosis/hocuspocus) - The official Y.js WebSocket backend
+
+## Misc
+
+- [OG Image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
