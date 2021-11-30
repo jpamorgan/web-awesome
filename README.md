@@ -1,6 +1,6 @@
 # web-awesome
 
-A curated list of great tools for building web apps
+A curated list of the best tools for building web apps
 
 ## React
 
